@@ -28,7 +28,7 @@ require (
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/cobra v1.8.0
 	github.com/thejerf/suture v4.0.5+incompatible
-	github.com/webview/webview_go v0.0.0-20230901181450-5a14030a9070
+	github.com/webview/webview_go v0.0.0-20240831120633-6173450d4dd6
 	github.com/zalando/go-keyring v0.2.5
 	go.etcd.io/bbolt v1.3.10
 	go.uber.org/zap v1.27.0
